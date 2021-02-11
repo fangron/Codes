@@ -2,5 +2,5 @@ TestingDuo:
 Duo 1
 Duo 2
 Duo 3
-Duo 4
+Duo 6
 Duo 5
