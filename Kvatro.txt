@@ -3,3 +3,5 @@ Kvatro 2
 Kvatro 3
 Kvatro 4
 Kvatro 5
+Kvatro 6
+Kvatro 7
